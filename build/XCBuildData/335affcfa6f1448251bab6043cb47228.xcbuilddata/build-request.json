@@ -1,0 +1,111 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b9a83e67d57a631af592c6bff91744da"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98eeeaa900748767c8c1de8fb6cc2467a5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983af7107ab1756b3e94f7a29e037f6ccc"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981b7267e72fa6da37365c950c67ca03f4"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983a8684695603290beea26aa559625eac"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9820386a9bb6f8eb71e89ac0ede9476499"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98169a3f24a830b32207daeec386ecf383"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988dc370c30aec93c67e98aaa5aaaf7836"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ccf8d2e7b76835803f385c319c420ae9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987569fe06facd7c0bf9a96a5d548dc115"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a38bec246157ee38ec71f978ab1cf8eb"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983b0c462c74bf3ff16be738f2c4bfa78a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98001936ef33eb4ae500df53099222deee"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981130daa4894db4a9220537a0c61d4fd9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9810f95f96c9da093b6a2c30db091f31b9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98526f5bf0859ba0fc9d0285405b50bde8"
+    }
+  ],
+  "containerPath" : "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/taopittt/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/taopittt/Library/Developer/Xcode/DerivedData/Pods-fkndlfxdnjplwigxuqwjrvaadrim/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/taopittt/Library/Developer/Xcode/DerivedData/Pods-fkndlfxdnjplwigxuqwjrvaadrim/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.6",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,3",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "81B939A4-0B1B-4594-8EBF-FA45DF450DA5",
+          "TARGET_DEVICE_MODEL" : "iPhone17,3",
+          "TARGET_DEVICE_OS_VERSION" : "18.6",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

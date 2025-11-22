@@ -1,0 +1,4 @@
+
+module ESTabBarController_swift.__Swift {
+  exclude header "ESTabBarController_swift-Swift.h"
+}

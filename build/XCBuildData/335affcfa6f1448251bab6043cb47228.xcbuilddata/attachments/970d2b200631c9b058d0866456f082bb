@@ -1,0 +1,4 @@
+
+module HandyJSON.__Swift {
+  exclude header "HandyJSON-Swift.h"
+}

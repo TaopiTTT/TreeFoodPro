@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/HandyJSON/HandyJSON.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/HandyJSON/HandyJSON.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "HandyJSON-Swift.h",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/unextended-interface-header.h",
+    }]
+  }]
+}

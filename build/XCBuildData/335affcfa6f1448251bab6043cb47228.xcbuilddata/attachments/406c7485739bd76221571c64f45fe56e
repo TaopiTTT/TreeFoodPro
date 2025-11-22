@@ -1,0 +1,5 @@
+
+module FanMenu.Swift {
+  header "FanMenu-Swift.h"
+  requires objc
+}

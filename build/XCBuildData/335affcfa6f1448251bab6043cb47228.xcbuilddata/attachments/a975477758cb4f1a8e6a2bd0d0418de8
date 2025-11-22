@@ -1,0 +1,4 @@
+
+module Macaw.__Swift {
+  exclude header "Macaw-Swift.h"
+}

@@ -1,0 +1,34 @@
+Target dependency graph (16 targets)
+Target 'Pods-TreeFood' in project 'Pods'
+➜ Explicit dependency on target 'CHIPageControl' in project 'Pods'
+➜ Explicit dependency on target 'DKCamera' in project 'Pods'
+➜ Explicit dependency on target 'DNSPageView' in project 'Pods'
+➜ Explicit dependency on target 'ESTabBarController-swift' in project 'Pods'
+➜ Explicit dependency on target 'EachNavigationBar' in project 'Pods'
+➜ Explicit dependency on target 'FSCalendar' in project 'Pods'
+➜ Explicit dependency on target 'FanMenu' in project 'Pods'
+➜ Explicit dependency on target 'HandyJSON' in project 'Pods'
+➜ Explicit dependency on target 'LookinServer' in project 'Pods'
+➜ Explicit dependency on target 'Macaw' in project 'Pods'
+➜ Explicit dependency on target 'SWXMLHash' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'Pods'
+➜ Explicit dependency on target 'pop' in project 'Pods'
+Target 'pop' in project 'Pods' (no dependencies)
+Target 'SwiftyJSON' in project 'Pods' (no dependencies)
+Target 'SnapKit' in project 'Pods' (no dependencies)
+Target 'LookinServer' in project 'Pods' (no dependencies)
+Target 'HandyJSON' in project 'Pods' (no dependencies)
+Target 'FanMenu' in project 'Pods'
+➜ Explicit dependency on target 'Macaw' in project 'Pods'
+Target 'Macaw' in project 'Pods'
+➜ Explicit dependency on target 'SWXMLHash' in project 'Pods'
+Target 'SWXMLHash' in project 'Pods' (no dependencies)
+Target 'FSCalendar' in project 'Pods' (no dependencies)
+Target 'EachNavigationBar' in project 'Pods'
+➜ Explicit dependency on target 'EachNavigationBar-EachNavigationBar' in project 'Pods'
+Target 'EachNavigationBar-EachNavigationBar' in project 'Pods' (no dependencies)
+Target 'ESTabBarController-swift' in project 'Pods' (no dependencies)
+Target 'DNSPageView' in project 'Pods' (no dependencies)
+Target 'DKCamera' in project 'Pods' (no dependencies)
+Target 'CHIPageControl' in project 'Pods' (no dependencies)

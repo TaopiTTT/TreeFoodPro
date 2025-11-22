@@ -1,0 +1,5 @@
+
+module DNSPageView.Swift {
+  header "DNSPageView-Swift.h"
+  requires objc
+}

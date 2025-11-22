@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/SWXMLHash-master.dia",
+    "emit-module-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/SWXMLHash-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/SWXMLHash-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/SWXMLHash-master.swiftdeps"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/SWXMLHash/Source/XMLHash.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLHash~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/SWXMLHash/Source/XMLIndexer+XMLIndexerDeserializable.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/XMLIndexer+XMLIndexerDeserializable~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/SWXMLHash/Source/shim.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SWXMLHash.build/Objects-normal/arm64/shim~partial.swiftmodule"
+  }
+}

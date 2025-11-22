@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/Macaw/Macaw.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/Macaw.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/Macaw/Macaw.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "Macaw-Swift.h",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/Macaw.build/unextended-interface-header.h",
+    }]
+  }]
+}

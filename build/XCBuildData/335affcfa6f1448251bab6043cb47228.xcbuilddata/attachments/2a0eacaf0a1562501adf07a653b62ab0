@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_TreeFoodVersionString[];
+ extern const double Pods_TreeFoodVersionNumber;
+
+ const unsigned char Pods_TreeFoodVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_TreeFood  PROJECT:Pods-1" "\n";
+ const double Pods_TreeFoodVersionNumber __attribute__ ((used)) = (double)1.;

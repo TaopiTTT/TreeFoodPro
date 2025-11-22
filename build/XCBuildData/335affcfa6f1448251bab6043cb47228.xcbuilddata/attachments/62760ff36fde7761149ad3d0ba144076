@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.dia",
+    "emit-module-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftdeps"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON~partial.swiftmodule"
+  }
+}

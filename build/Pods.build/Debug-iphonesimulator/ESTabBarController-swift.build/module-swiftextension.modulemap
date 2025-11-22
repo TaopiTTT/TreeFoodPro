@@ -1,0 +1,5 @@
+
+module ESTabBarController_swift.Swift {
+  header "ESTabBarController_swift-Swift.h"
+  requires objc
+}

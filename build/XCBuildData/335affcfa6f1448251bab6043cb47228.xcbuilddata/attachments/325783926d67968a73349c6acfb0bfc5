@@ -1,0 +1,4 @@
+
+module SWXMLHash.__Swift {
+  exclude header "SWXMLHash-Swift.h"
+}

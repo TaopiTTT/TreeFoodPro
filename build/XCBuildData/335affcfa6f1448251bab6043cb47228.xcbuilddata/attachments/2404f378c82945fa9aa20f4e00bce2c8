@@ -1,0 +1,158 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar-master.dia",
+    "emit-module-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar-master.swiftdeps"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/AssociatedKeys.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/AssociatedKeys~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/BackBarButtonItem.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/BackBarButtonItem~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/Configuration.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Configuration~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/Const.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Const~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/EachNavigationBar.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationBar~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/EachNavigationItem.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/EachNavigationItem~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/Navigation.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Navigation~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/Shadow.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/Shadow~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UINavigationBar+Sugar.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationBar+Sugar~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UINavigationController+EachNavigationBar.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UINavigationController+EachNavigationBar~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UITableViewController+EachNavigationBar.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UITableViewController+EachNavigationBar~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UIViewController+Associated.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Associated~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UIViewController+EachNavigationBar.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+EachNavigationBar~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UIViewController+Navigation.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Navigation~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/EachNavigationBar/EachNavigationBar/Classes/UIViewController+Swizzling.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/Objects-normal/arm64/UIViewController+Swizzling~partial.swiftmodule"
+  }
+}

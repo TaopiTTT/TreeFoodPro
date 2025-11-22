@@ -1,0 +1,4 @@
+
+module EachNavigationBar.__Swift {
+  exclude header "EachNavigationBar-Swift.h"
+}

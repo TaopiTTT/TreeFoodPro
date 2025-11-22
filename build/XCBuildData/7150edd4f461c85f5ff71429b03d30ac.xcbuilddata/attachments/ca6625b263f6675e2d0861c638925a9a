@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController-swift-master.dia",
+    "emit-module-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController-swift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController-swift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController-swift-master.swiftdeps"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBar.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBar~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBarController.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarController~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBarItem.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItem~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBarItemBadgeView.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemBadgeView~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBarItemContainer.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContainer~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBarItemContentView.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemContentView~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/ESTabBarController-swift/Sources/ESTabBarItemMoreContentView.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/Objects-normal/arm64/ESTabBarItemMoreContentView~partial.swiftmodule"
+  }
+}

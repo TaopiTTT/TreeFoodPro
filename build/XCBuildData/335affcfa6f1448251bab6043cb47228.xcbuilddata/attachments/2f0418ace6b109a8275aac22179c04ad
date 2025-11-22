@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera-master.dia",
+    "emit-module-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera-master.swiftdeps"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/DKCamera/DKCamera/DKCamera.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCamera~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/DKCamera/DKCamera/DKCameraLocationManager.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraLocationManager~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/DKCamera/DKCamera/DKCameraResource.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/DKCamera.build/Objects-normal/arm64/DKCameraResource~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "" : {
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HandyJSON-master.dia",
+    "emit-module-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HandyJSON-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HandyJSON-master-emit-module.dia",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HandyJSON-master.swiftdeps"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/AnyExtensions.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/AnyExtensions~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/BuiltInBasicType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBasicType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/BuiltInBridgeType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/BuiltInBridgeType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/CBridge.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CBridge~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Configuration.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Configuration~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/ContextDescriptorType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ContextDescriptorType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/CustomDateFormatTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/CustomDateFormatTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/DataTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DataTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/DateFormatterTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateFormatterTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/DateTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/DateTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Deserializer.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Deserializer~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/EnumTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/EnumType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/EnumType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Export.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Export~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/ExtendCustomBasicType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomBasicType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/ExtendCustomModelType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ExtendCustomModelType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/FieldDescriptor.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/FieldDescriptor~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/HelpingMapper.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HelpingMapper~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/HexColorTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/HexColorTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/ISO8601DateTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ISO8601DateTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Logger.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Logger~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/MangledName.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/MangledName~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Measuable.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Measuable~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Metadata.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Metadata~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/NSDecimalNumberTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/NSDecimalNumberTransform~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/OtherExtension.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/OtherExtension~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/PointerType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PointerType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Properties.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Properties~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/PropertyInfo.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/PropertyInfo~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/ReflectionHelper.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/ReflectionHelper~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Serializer.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Serializer~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/TransformOf.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformOf~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/TransformType.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/TransformType~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/Transformable.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/Transformable~partial.swiftmodule"
+  },
+  "/Users/taopittt/IOSproject/TreeFoodPro/TreeFood/HandyJSON/Source/URLTransform.swift" : {
+    "const-values" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.swiftconstvalues",
+    "dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.d",
+    "diagnostics" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.o",
+    "llvm-bc" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.bc",
+    "object" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.o",
+    "swift-dependencies" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform.swiftdeps",
+    "swiftmodule" : "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/HandyJSON.build/Objects-normal/arm64/URLTransform~partial.swiftmodule"
+  }
+}

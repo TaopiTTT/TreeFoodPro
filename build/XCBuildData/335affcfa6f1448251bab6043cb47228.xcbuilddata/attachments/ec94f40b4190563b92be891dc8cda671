@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/EachNavigationBar/EachNavigationBar.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/EachNavigationBar/EachNavigationBar.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "EachNavigationBar-Swift.h",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/EachNavigationBar.build/unextended-interface-header.h",
+    }]
+  }]
+}

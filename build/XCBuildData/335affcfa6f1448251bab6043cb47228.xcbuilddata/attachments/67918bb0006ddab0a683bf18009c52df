@@ -1,0 +1,4 @@
+
+module DKCamera.__Swift {
+  exclude header "DKCamera-Swift.h"
+}

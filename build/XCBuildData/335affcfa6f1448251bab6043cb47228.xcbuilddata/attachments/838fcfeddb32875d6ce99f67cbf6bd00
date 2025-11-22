@@ -1,0 +1,5 @@
+
+module EachNavigationBar.Swift {
+  header "EachNavigationBar-Swift.h"
+  requires objc
+}

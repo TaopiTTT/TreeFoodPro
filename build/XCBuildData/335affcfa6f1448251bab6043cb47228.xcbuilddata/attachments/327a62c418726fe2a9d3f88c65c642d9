@@ -1,0 +1,4 @@
+
+module DNSPageView.__Swift {
+  exclude header "DNSPageView-Swift.h"
+}

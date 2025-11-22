@@ -1,0 +1,4 @@
+
+module FanMenu.__Swift {
+  exclude header "FanMenu-Swift.h"
+}

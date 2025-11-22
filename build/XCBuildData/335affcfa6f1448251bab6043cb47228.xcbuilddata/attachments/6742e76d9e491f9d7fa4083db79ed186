@@ -1,0 +1,5 @@
+ extern const unsigned char EachNavigationBarVersionString[];
+ extern const double EachNavigationBarVersionNumber;
+
+ const unsigned char EachNavigationBarVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:EachNavigationBar  PROJECT:Pods-1" "\n";
+ const double EachNavigationBarVersionNumber __attribute__ ((used)) = (double)1.;

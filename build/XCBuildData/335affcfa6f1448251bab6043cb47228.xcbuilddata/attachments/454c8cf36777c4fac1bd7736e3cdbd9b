@@ -1,0 +1,5 @@
+
+module DKCamera.Swift {
+  header "DKCamera-Swift.h"
+  requires objc
+}

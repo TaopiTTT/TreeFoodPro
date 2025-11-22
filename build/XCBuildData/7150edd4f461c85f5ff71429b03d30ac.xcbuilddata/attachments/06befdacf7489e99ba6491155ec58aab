@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/ESTabBarController-swift/ESTabBarController_swift.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/taopittt/IOSproject/TreeFoodPro/build/Debug-iphonesimulator/ESTabBarController-swift/ESTabBarController_swift.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "ESTabBarController_swift-Swift.h",
+      "external-contents": "/Users/taopittt/IOSproject/TreeFoodPro/build/Pods.build/Debug-iphonesimulator/ESTabBarController-swift.build/unextended-interface-header.h",
+    }]
+  }]
+}

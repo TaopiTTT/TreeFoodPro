@@ -1,0 +1,5 @@
+
+module HandyJSON.Swift {
+  header "HandyJSON-Swift.h"
+  requires objc
+}
