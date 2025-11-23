@@ -7,3 +7,6 @@
 
 import Foundation
 import UIKit
+
+let CFWidth = UIScreen.main.bounds.width
+let CFHeight = UIScreen.main.bounds.height
