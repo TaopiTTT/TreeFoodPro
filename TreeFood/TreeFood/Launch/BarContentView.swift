@@ -29,9 +29,53 @@ class BarContentView:ESTabBarItemContentView {
         }
     }
     
-    
-    
     required init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
+    }
+    
+    override func selectAnimation(animated: Bool, completion: (() -> ())?) {
+        bounceAnimation()
+        completion?()
+    }
+    
+    override func reselectAnimation(animated: Bool, completion: (() -> ())?) {
+        bounceAnimation()
+        completion?()
+    }
+    
+    // 模拟弹簧效果
+    func bounceAnimation() {
+        let impliesAnimation = CAKeyframeAnimation(keyPath: "transform.scale")
+        impliesAnimation.values = [1.0, 1.4, 0.9, 1.15, 0.95, 1.02, 1.0]
+        impliesAnimation.duration = 0.3 * 2
+        impliesAnimation.calculationMode = CAAnimationCalculationMode.cubic
+        imageView.layer.add(impliesAnimation, forKey: nil)
+    }
+}
+
+// 解决穿透点击bug
+extension ESTabBar {
+    override open func hitTest(_ point: CGPoint, with event: UIEvent?) -> UIView? {
+        // 1. 如果 TabBar 隐藏或不可交互，则不处理
+        if !isUserInteractionEnabled || isHidden || alpha <= 0.01 {
+            return nil
+        }
+        
+        // 2. 尝试默认的点击检测
+        let resultView = super.hitTest(point, with: event)
+        if resultView != nil {
+            return resultView
+        } else {
+            // 3. 关键逻辑：如果点击点在 TabBar 范围之外（resultView 为 nil）
+            // 遍历所有子视图（例如那个凸起的中间大按钮）
+            for subView in subviews.reversed() {
+                let convertPoint: CGPoint = subView.convert(point, from: self)
+                let hitView = subView.hitTest(convertPoint, with: event)
+                if hitView != nil {
+                    return hitView
+                }
+            }
+        }
+        return nil
     }
 }
