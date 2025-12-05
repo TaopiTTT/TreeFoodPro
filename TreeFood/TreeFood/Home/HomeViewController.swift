@@ -5,10 +5,10 @@
 //  Created by Tao on 2025/11/23.
 //
 
-import Foundation
+import SnapKit
 import UIKit
-import SwiftyJSON
 import HandyJSON
+import SwiftyJSON
 
 class HomeViewController:UIViewController {
     
@@ -32,10 +32,10 @@ class HomeViewController:UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
       self.collectionView.automaticallyAdjustsScrollIndicatorInsets = false
-        view.backgroundColor = .white
-        setUpUI()
+        view.backgroundColor = .black
         setNaviBar()
         setUpData()
+        setUpUI()
     }
     
     override func viewDidLayoutSubviews() {
@@ -152,16 +152,16 @@ class HomeViewController:UIViewController {
 
 // MARK: - 设置数据源与代理方法
 
-extension HomeViewController: UICollectionViewDelegate,UICollectionViewDataSource {
-    
+extension HomeViewController: UICollectionViewDelegate, UICollectionViewDataSource {
+  
     func numberOfSections(in collectionView: UICollectionView) -> Int {
         return 5
     }
-    
+
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return 1
     }
-    
+
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         switch indexPath.section {
         case 0:
@@ -200,7 +200,81 @@ extension HomeViewController: UICollectionViewDelegate,UICollectionViewDataSourc
             }
             cell.updateUI(with: homeData.dishes)
             return cell
-            
+        case 1:
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: RecommendCellID, for: indexPath) as! RecommendCollectionViewCell //内存中创建一个实例（集合嵌套）
+            cellAnimation(cell: cell, interval: 0.25)
+            cell.moreButtonBlock = { ()
+                let vc = MoreDishViewController()
+                vc.updateUI(with: self.recommendData, title: "每日推荐")
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.cellCallBack = { data, type in
+                let vc = DishDetailViewController()
+                vc.updateUI(with: data, types: type)
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.updateUI(with: recommendData, FoodType: FoodType)
+            return cell
+        case 2:
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SupplementCellID, for: indexPath) as! SupplementCollectionViewCell
+            cellAnimation(cell: cell, interval: 0.25)
+            cell.moreButtonBlock = {
+                let vc = MoreSupplementViewController()
+                vc.updatUI(with: self.supplements, title: "营养补给")
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.cellCallBack = { (data) in
+                let vc = SupplementDetailViewController()
+                vc.updateUI(with: data)
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.updateUI(with: homeData.nutritionalSupplement)
+            return cell
+        case 3:
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SuggesttCellID, for: indexPath) as! SuggestCollectionViewCell
+            cellAnimation(cell: cell, interval: 0.25)
+            cell.moreButtonBlock = {
+                let vc = MoreSupplementViewController()
+                vc.updatUI(with: self.supplements, title: "建议补充")
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.cellCallBack = { data in
+                let vc = SupplementDetailViewController()
+                vc.updateUI(with: data)
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.updateUI(with: homeData.suggestSupplement)
+            return cell
+        case 4:
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: PreferenceCellID, for: indexPath) as! PreferenceCollectionViewCell
+            cellAnimation(cell: cell, interval: 0.25)
+            cell.moreButtonBlock = {
+                let vc = MoreDishViewController()
+                vc.updateUI(with: self.recommendData, title: "最近偏爱")
+                self.navigationController?.pushViewController(vc, animated: true)
+            }
+            cell.cellCallBack = { (data, type) in
+                switch type {
+                case .Breakfast:
+                    let vc = DishDetailViewController()
+                    vc.updateUI(with: data, types: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                case .Launch:
+                    let vc = DishDetailViewController()
+                    vc.updateUI(with: data, types: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                case .Dinner:
+                    let vc = DishDetailViewController()
+                    vc.updateUI(with: data, types: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                case .Snacks:
+                    let vc = DishDetailViewController()
+                    vc.updateUI(with: data, types: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                }
+            }
+            cell.updateUI(with: recommendData, FoodType: FoodType)
+            return cell
         default:
             let cell = collectionView.dequeueReusableCell(withReuseIdentifier: PreferenceCellID, for: indexPath) as! PreferenceCollectionViewCell
             cell.backgroundColor = .black
@@ -208,7 +282,6 @@ extension HomeViewController: UICollectionViewDelegate,UICollectionViewDataSourc
             return cell
         }
     }
-        
 }
 
 // MARK: - 设置布局

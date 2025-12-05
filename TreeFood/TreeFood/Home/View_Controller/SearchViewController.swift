@@ -9,12 +9,13 @@ import UIKit
 
 class SearchViewController: UIViewController {
     
-    // MARK: - 公有属性
-    public var cellCallBack: ((Dish,Species) -> ())?
+    //MARK: -公有属性
+    public var cellCallBack: ((Dish, Species) -> ())?
     public var data = [Dish]()
     public var out = true
     
-    // MARK: - 私有属性
+    //MARK: -私有属性
+    
     private var resultData = [Dish]()
     private let cellID = "cell"
     
@@ -23,18 +24,21 @@ class SearchViewController: UIViewController {
         controller.searchResultsUpdater = self
         controller.delegate = self
         controller.searchBar.delegate = self
+//        controller.hidesNavigationBarDuringPresentation = false
+//        controller.dimsBackgroundDuringPresentation = true
         return controller
     }()
     
-    lazy var tableView:UITableView = {
-        let tableView = UITableView(frame: .zero,style: .plain)
+    lazy var tableView: UITableView = {
+        let tableView = UITableView(frame: .zero, style: .plain)
         tableView.register(UITableViewCell.self, forCellReuseIdentifier: cellID)
         tableView.delegate = self
         tableView.dataSource = self
         return tableView
     }()
-
-    // MARK: - 公有方法
+    
+    //MARK: -公有方法
+    
     public func updateUI(with data: [Dish]) {
         self.data = data
         self.tableView.reloadData()
@@ -45,14 +49,13 @@ class SearchViewController: UIViewController {
         configUI()
     }
     
-    // 用于键盘主动弹起
+    //用于键盘主动弹起
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         searchController.isActive = true
     }
     
-    // MARK: - 私有方法
-    // TODO: 搜索时使搜索栏悬浮在顶部
+    //MARK: -私有方法
     func configUI() {
         self.tableView.tableHeaderView = searchController.searchBar
         self.view.addSubview(tableView)
@@ -65,47 +68,46 @@ class SearchViewController: UIViewController {
             }
         }
     }
-
 }
 
 extension SearchViewController: UISearchBarDelegate {
-    func searchBarShouldEndEditing(_ searchBar: UISearchBar) -> Bool {
-        return true
+    func searchBarShouldBeginEditing(_ searchBar: UISearchBar) -> Bool {
+        return true;
     }
     
-    func searchBarShouldBeginEditing(_ searchBar: UISearchBar) -> Bool {
-        return true
+    func searchBarShouldEndEditing(_ searchBar: UISearchBar) -> Bool {
+        return true;
     }
 }
 
-extension SearchViewController: UISearchControllerDelegate,UISearchResultsUpdating {
-    
+extension SearchViewController: UISearchControllerDelegate, UISearchResultsUpdating {
     func updateSearchResults(for searchController: UISearchController) {
         let inputStr = searchController.searchBar.text
         if resultData.count > 0 {
             resultData.removeAll()
+            
         }
-        
-        // 搜索核心
         for item in data {
             if((item.name.lowercased() as NSString).range(of: inputStr?.lowercased() ?? "").location != NSNotFound) {
-                    resultData.append(item)
-                    tableView.snp.updateConstraints { make in
+                resultData.append(item)
+                tableView.snp.updateConstraints { make in
                     make.top.equalToSuperview().offset(-50)
                 }
             }
         }
         self.tableView.reloadData()
     }
-    
-    // 第一次点击弹出键盘
+
     func didPresentSearchController(_ searchController: UISearchController) {
         if out {
             searchController.searchBar.becomeFirstResponder()
             self.out = false
+            
         }
     }
+    
 }
+
 
 extension SearchViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -147,3 +149,4 @@ extension SearchViewController: UITableViewDelegate, UITableViewDataSource {
         
     }
 }
+
