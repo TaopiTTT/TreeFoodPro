@@ -7,6 +7,8 @@
 
 import Foundation
 import UIKit
+import SwiftyJSON
+import HandyJSON
 
 class HomeViewController:UIViewController {
     
@@ -29,11 +31,11 @@ class HomeViewController:UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//      self.collectionView.automaticallyAdjustsScrollIndicatorInsets = false
+      self.collectionView.automaticallyAdjustsScrollIndicatorInsets = false
         view.backgroundColor = .white
         setUpUI()
         setNaviBar()
-        
+        setUpData()
     }
     
     override func viewDidLayoutSubviews() {
@@ -53,11 +55,11 @@ class HomeViewController:UIViewController {
         collectionView.dataSource = self
         
         collectionView.register(SearchCollectionViewCell.self,forCellWithReuseIdentifier: SearchCellID)
-//        collectionView.register(RecommendCollectionViewCell.self, forCellWithReuseIdentifier: RecommendCellID)
-//        collectionView.register(SupplementCollectionViewCell.self, forCellWithReuseIdentifier: SupplementCellID)
-//        collectionView.register(SuggestCollectionViewCell.self, forCellWithReuseIdentifier: SuggesttCellID)
-//        collectionView.register(PreferenceCollectionViewCell.self, forCellWithReuseIdentifier: PreferenceCellID)
-//        collectionView.register(UICollectionReusableView.self, forSupplementaryViewOfKind: UICollectionView.elementKindSectionHeader, withReuseIdentifier: SectionHeadCellID)
+        collectionView.register(RecommendCollectionViewCell.self, forCellWithReuseIdentifier: RecommendCellID)
+        collectionView.register(SupplementCollectionViewCell.self, forCellWithReuseIdentifier: SupplementCellID)
+        collectionView.register(SuggestCollectionViewCell.self, forCellWithReuseIdentifier: SuggesttCellID)
+        collectionView.register(PreferenceCollectionViewCell.self, forCellWithReuseIdentifier: PreferenceCellID)
+        collectionView.register(UICollectionReusableView.self, forSupplementaryViewOfKind: UICollectionView.elementKindSectionHeader, withReuseIdentifier: SectionHeadCellID)
         return collectionView
     }()
     
@@ -87,8 +89,65 @@ class HomeViewController:UIViewController {
         navigation.bar.statusBarStyle = .darkContent
     }
     
-    // TODO: 插入数据
+    private func setUpData() {
+        // 文件路径
+        let path = Bundle.main.path(forResource: "homeList", ofType: "json")
+        // json转NSData
+        let jsonData = NSData(contentsOfFile: path!)
+        // 解析json
+        let json = JSON(jsonData!)
+        homeData = JSONDeserializer<HomeData>.deserializeFrom(json: json["data"].description)!
+        
+        //搜索数据
+        for item in homeData.dishes {
+            for dish in item.content {
+                self.searchData.append(dish)
+            }
+        }
 
+        // 营养补充
+        for item in homeData.nutritionalSupplement {
+            for supplement in item.supplements {
+                supplements.append(supplement)
+            }
+        }
+
+        // 每日推荐根据时间推荐
+        for item in homeData.dishes {
+            let date = Date()
+            let type = date.getSpecie()
+            switch type {
+            case .Breakfast:
+                if item.speciesName == type.rawValue {
+                    for dish in item.content {
+                        recommendData.append(dish)
+                        FoodType.append(type)
+                    }
+                }
+            case .Launch:
+                if item.speciesName == type.rawValue {
+                    for dish in item.content {
+                        recommendData.append(dish)
+                        FoodType.append(type)
+                    }
+                }
+            case .Dinner:
+                if item.speciesName == type.rawValue {
+                    for dish in item.content {
+                        recommendData.append(dish)
+                        FoodType.append(type)
+                    }
+                }
+            case .Snacks:
+                if item.speciesName == type.rawValue {
+                    for dish in item.content {
+                        recommendData.append(dish)
+                        FoodType.append(type)
+                    }
+                }
+            }
+        }
+    }
 }
 
 // MARK: - 设置数据源与代理方法
@@ -104,10 +163,52 @@ extension HomeViewController: UICollectionViewDelegate,UICollectionViewDataSourc
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SearchCellID, for: indexPath)
-        
-        return cell
+        switch indexPath.section {
+        case 0:
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: SearchCellID, for: indexPath) as! SearchCollectionViewCell
+            cellAnimation(cell: cell, interval: 0.25)
+            cell.searchCallBack = { ()
+                let vc = SearchViewController()
+                vc.searchController.isActive = true
+                vc.updateUI(with: self.searchData)
+                self.navigationController?.pushViewController(vc, animated: true)
+                vc.cellCallBack = { data, type in
+                    let vc = DishDetailViewController()
+                    vc.updateUI(with: data, types: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                }
+            }
+            cell.cellCallBack = { type in
+                switch type {
+                case .Breakfast:
+                    let vc = DishViewController()
+                    vc.updateUI(with: self.homeData.dishes[0], type: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                case .Launch:
+                    let vc = DishViewController()
+                    vc.updateUI(with: self.homeData.dishes[1], type: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                case .Dinner:
+                    let vc = DishViewController()
+                    vc.updateUI(with: self.homeData.dishes[2], type: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                case .Snacks:
+                    let vc = DishViewController()
+                    vc.updateUI(with: self.homeData.dishes[3], type: type)
+                    self.navigationController?.pushViewController(vc, animated: true)
+                }
+            }
+            cell.updateUI(with: homeData.dishes)
+            return cell
+            
+        default:
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: PreferenceCellID, for: indexPath) as! PreferenceCollectionViewCell
+            cell.backgroundColor = .black
+            cellAnimation(cell: cell, interval: 1)
+            return cell
+        }
     }
+        
 }
 
 // MARK: - 设置布局

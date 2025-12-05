@@ -30,6 +30,7 @@ func Launch() -> ESTabBarController {
     let addNavi = BaseNavigationController(rootViewController: addVC)
     
     tabBarController.viewControllers = [homeNavi, recordNavi, addNavi, analyzeNavi, mineNavi]
+//    , recordNavi, addNavi, analyzeNavi, mineNavi
     
     UITabBar.appearance().isTranslucent = false
     //选项卡是否半透明，当标签栏为半透明时，配置视图控制器的 edgesForExtendedLayout 和 extendedLayoutIncludesOpaqueBars 属性以在标签栏下方显示您的内容。

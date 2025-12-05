@@ -65,8 +65,7 @@ class SearchViewController: UIViewController {
             }
         }
     }
-    
-    
+
 }
 
 extension SearchViewController: UISearchBarDelegate {
