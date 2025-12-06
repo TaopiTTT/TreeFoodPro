@@ -35,12 +35,13 @@ class HomeViewController:UIViewController {
         view.backgroundColor = .black
         setNaviBar()
         setUpData()
+        configCenterButton()
         setUpUI()
     }
     
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
-        
+        fanMenu.updateNode()
     }
     
     
@@ -63,7 +64,12 @@ class HomeViewController:UIViewController {
         return collectionView
     }()
     
-    // TODO: 中间添加按钮功能入口
+    private var fanMenu = AddMenu.getsharedInstance().fanMenu
+    
+    lazy var addView: AddView = {
+        let view = AddView()
+        return view
+    }()
     
     
     // MARK: - 私有方法
@@ -79,8 +85,54 @@ class HomeViewController:UIViewController {
         }
     }
     
-    // TODO: 中间按钮方法实现
-    
+    private func configCenterButton() {
+        self.tabBarController?.tabBar.addSubview(addView);
+        
+        // 设置按钮位置
+        let rect = self.tabBarController?.tabBar.frame
+        let value = rect!.width / CGFloat(5)
+        addView.snp.makeConstraints { (make) in
+            make.centerX.equalToSuperview()
+            make.top.equalToSuperview()
+            make.width.equalTo(1.5 * value)
+            make.height.equalTo(value)
+        }
+        
+        addView.addSubview(fanMenu)
+        fanMenu.snp.makeConstraints { (make) in
+            make.centerX.equalTo(addView.snp.centerX)
+            make.centerY.equalTo(addView.snp.top).offset(0.fit)
+            make.height.equalTo(value*5)
+            make.width.equalTo(CFWidth)
+        }
+        fanMenu.onItemDidClick = {button in
+            switch button.id {
+            case "早餐":
+                let nav = BaseNavigationController(rootViewController: AddViewController(with: .Breakfast))
+                nav.modalPresentationStyle = .fullScreen
+                nav.navigation.configuration.isEnabled = false
+                self.tabBarController?.present(nav, animated: true, completion: nil)
+            case "午餐":
+                let nav = BaseNavigationController(rootViewController: AddViewController(with: .Launch))
+                nav.modalPresentationStyle = .fullScreen
+                nav.navigation.configuration.isEnabled = false
+                self.tabBarController?.present(nav, animated: true, completion: nil)
+            case "晚餐":
+                let nav = BaseNavigationController(rootViewController: AddViewController(with: .Dinner))
+                nav.modalPresentationStyle = .fullScreen
+                nav.navigation.configuration.isEnabled = false
+                self.tabBarController?.present(nav, animated: true, completion: nil)
+            case "小食":
+                let nav = BaseNavigationController(rootViewController: AddViewController(with: .Snacks))
+                nav.modalPresentationStyle = .fullScreen
+                nav.navigation.configuration.isEnabled = false
+                self.tabBarController?.present(nav, animated: true, completion: nil)
+            default:
+                break
+            }
+        }
+        
+    }
     
     private func setNaviBar() {
         navigation.bar.isHidden = true
