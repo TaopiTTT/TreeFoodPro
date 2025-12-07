@@ -78,7 +78,13 @@ class DishDetailViewController: UIViewController {
     // MARK: - 公有方法
     override func viewDidLoad() {
         super.viewDidLoad()
-//        addButton()
+        addButton()
+        configNavbar()
+        configUI()
+        self.scrollView.contentSize = CGSize(width: CFWidth, height: CFHeight + 200)
+        dishView.scrollBlock = { [weak self] (scroll) in
+            self?.viewScroll = scroll
+        }
     }
     
     public func updateUI(with data: Dish,types: Species){
