@@ -93,7 +93,7 @@ class AddViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         configUI()
-//        configData()
+        configData(with: type)
         
         // 注册全局通知
         NotificationCenter.default.addObserver(self, selector: #selector(addItem), name: NSNotification.Name("addBag"), object: nil)
