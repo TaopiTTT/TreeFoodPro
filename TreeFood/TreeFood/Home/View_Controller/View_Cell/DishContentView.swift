@@ -77,6 +77,7 @@ class DishContentView: UIView {
         tableView.delegate = self
         tableView.dataSource = self
         tableView.register(ingredientsCell.self, forCellReuseIdentifier: ingredientsCellID)
+        tableView.register(CalorisTotalTableViewCell.self, forCellReuseIdentifier: CalorisTotalCellID)
         return tableView
     }()
     
