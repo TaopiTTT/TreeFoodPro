@@ -125,14 +125,14 @@ extension MineViewController: UITableViewDelegate {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath){
         tableView.deselectRow(at: indexPath, animated: true)
         switch indexPath.section {
-        case 0: break
-//            let vc = EditViewController()
-//            vc.editCallBack = { data in
-//                self.mineData = data
-//                self.tableView.reloadData()
-//            }
-//            vc.updateUI(with: mineData)
-//            navigationController?.pushViewController(vc, animated: true)
+        case 0:
+            let vc = EditViewController()
+            vc.editCallBack = { data in
+                self.mineData = data
+                self.tableView.reloadData()
+            }
+            vc.updateUI(with: mineData)
+            navigationController?.pushViewController(vc, animated: true)
         case 1:
             if indexPath.row == 0 {
                 let vc = CalendarViewController()
